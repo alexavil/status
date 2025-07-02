@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jsbox.xyz
   # baseUrl: /your-repo-name
-  name: JSBox Status Page
+  name: JSBox Status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
