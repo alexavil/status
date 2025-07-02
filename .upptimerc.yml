@@ -14,6 +14,11 @@ status-website:
   cname: status.jsbox.xyz
   # baseUrl: /your-repo-name
   name: JSBox Status
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
