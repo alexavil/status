@@ -22,19 +22,19 @@
     "url": "https://doppelbot.jsbox.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/doppelbot.jsbox.xyz.ico",
     "slug": "doppel-bot-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 919,
-    "timeWeek": 525,
-    "timeMonth": 867,
-    "timeYear": 867,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 853,
+    "timeDay": 653,
+    "timeWeek": 508,
+    "timeMonth": 853,
+    "timeYear": 853,
     "dailyMinutesDown": {
-      "2025-08-01": 0
+      "2025-08-01": 75
     }
   }
 ]
