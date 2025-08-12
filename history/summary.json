@@ -4,18 +4,20 @@
     "url": "https://blog.jsbox.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jsbox.xyz.ico",
     "slug": "js-box-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1135,
-    "timeDay": 328,
-    "timeWeek": 251,
-    "timeMonth": 856,
-    "timeYear": 1135,
-    "dailyMinutesDown": {}
+    "time": 1118,
+    "timeDay": 356,
+    "timeWeek": 267,
+    "timeMonth": 842,
+    "timeYear": 1118,
+    "dailyMinutesDown": {
+      "2025-08-12": 0
+    }
   },
   {
     "name": "DoppelBot Blog",
